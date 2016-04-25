@@ -1,0 +1,631 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cate",
+				"category_name"
+			],
+			[
+				"typ",
+				"type_name"
+			],
+			[
+				"sc",
+				"screenNameTokens"
+			],
+			[
+				"for",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"to",
+				"tokens"
+			],
+			[
+				"token",
+				"tokenizeString"
+			],
+			[
+				"pre",
+				"prefixes"
+			],
+			[
+				"cdn",
+				"cdnPreview"
+			],
+			[
+				"is",
+				"isString"
+			],
+			[
+				"cdn_",
+				"cdn_preview_url"
+			],
+			[
+				"ta",
+				"targetGood"
+			],
+			[
+				"sta",
+				"stagingPages"
+			],
+			[
+				"page",
+				"pageObjects"
+			],
+			[
+				"good",
+				"goodId"
+			],
+			[
+				"con",
+				"contains"
+			],
+			[
+				"goo",
+				"goodID"
+			],
+			[
+				"remove",
+				"removedGoods"
+			],
+			[
+				"go",
+				"goodID"
+			],
+			[
+				"exi",
+				"existingTaggedGoods"
+			],
+			[
+				"tag",
+				"taggedGoods"
+			],
+			[
+				"new",
+				"newGoods"
+			],
+			[
+				"stag",
+				"stagingTaggedGoods"
+			],
+			[
+				"dele",
+				"deletedGoods"
+			],
+			[
+				"tagged",
+				"tagged_goods"
+			],
+			[
+				"acit",
+				"activity"
+			],
+			[
+				"ex",
+				"existingPages"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"obje",
+				"objectId"
+			],
+			[
+				"st",
+				"stagingPages"
+			],
+			[
+				"stagi",
+				"stagingPageObjects"
+			],
+			[
+				"ob",
+				"objectId"
+			],
+			[
+				"exis",
+				"existingPages"
+			],
+			[
+				"sesh",
+				"seshID"
+			],
+			[
+				"delet",
+				"deletePages"
+			],
+			[
+				"op",
+				"options"
+			],
+			[
+				"tea",
+				"team_id"
+			],
+			[
+				"if",
+				"ife	if … else"
+			],
+			[
+				"paeg",
+				"pageAuthor"
+			],
+			[
+				"Page",
+				"PageType"
+			],
+			[
+				"disp",
+				"dispensaries"
+			],
+			[
+				"http",
+				"httpResponse"
+			],
+			[
+				"bran",
+				"branches"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/main.tex",
+			"settings":
+			{
+				"buffer_size": 178,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 133.0,
+		"last_filter": "Package Control: in",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				":if",
+				"Snippet: if"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"inder",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"form",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"set javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"open",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"packe",
+				"Package Control: Install Package"
+			],
+			[
+				"PackaCo In",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"ls",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Developer/svi/sesh-cloud/cloud/merge_sesh_updates.js",
+		"/Developer/svi/sesh-cloud/cloud/delete_sesh.js",
+		"/Users/makazone/Downloads/SESH Testers - Cashmere Agency-1.csv",
+		"/Users/makazone/Desktop/SESH_Testers.csv",
+		"/Users/makazone/Downloads/SESH Testers - New Testers.csv",
+		"/Users/makazone/Downloads/SESH Testers - Cashmere Agency.csv",
+		"/Users/makazone/Downloads/SESH Testers - Cashmere Agency (1).csv",
+		"/Developer/svi/sesh-cloud/cloud/sesh.js",
+		"/Developer/svi/sesh-cloud-dev/SESH-Cloud/cloud/search.js",
+		"/Developer/svi/sesh-cloud-dev/SESH-Cloud/cloud/main.js",
+		"/Developer/svi/sesh-cloud-dev/SESH-Cloud/cloud/user.js",
+		"/Developer/svi/sesh-cloud-dev/SESH-Cloud/cloud/mj_login.js",
+		"/Developer/svi/sesh-cloud-dev/SESH-Cloud/cloud/push.js",
+		"/Developer/svi/sesh-cloud-dev/SESH-Cloud/cloud/good.js",
+		"/Developer/svi/sesh-cloud-dev/SESH-Cloud/cloud/utils.js",
+		"/Developer/svi/sesh/Podfile",
+		"/Developer/svi/sesh-cloud-dev/SESH-Cloud/cloud/mj_sync_job.js",
+		"/Developer/svi/sesh-cloud-dev/SESH-Cloud/cloud/dispensary.js",
+		"/Developer/svi/sesh-cloud/cloud/cdn.js",
+		"/Developer/svi/sesh-cloud/cloud/search.js",
+		"/Developer/svi/sesh-cloud/cloud/config.js",
+		"/Users/makazone/Downloads/en1.xliff",
+		"/Developer/svi/sesh/sesh/Application/en.lproj/Localizable.strings",
+		"/Users/makazone/Downloads/en-US.xliff",
+		"/Developer/svi/sesh-cloud/cloud/activity.js",
+		"/Developer/svi/sesh-cloud/cloud/mj_sync_job.js",
+		"/Developer/svi/sesh-cloud/cloud/user.js",
+		"/Developer/svi/sesh/fastlane/Fastfile",
+		"/Developer/svi/sesh-cloud/cloud/utils.js",
+		"/Developer/svi/sesh-cloud/cloud/mj_login.js",
+		"/Developer/svi/sesh/sesh/Storyboard/Base.lproj/Profile.storyboard",
+		"/Developer/svi/sesh/sesh.xcodeproj/project.pbxproj",
+		"/Users/makazone/Documents/HSE/Calculus/gordin/Gordin_28032016/README.md",
+		"/Users/makazone/Documents/HSE/Calculus/gordin/Gordin_28032016/comp2a_PLOTS.m",
+		"/Users/makazone/Documents/HSE/Calculus/gordin/Gordin_28032016/comp3a_PLOTS.m",
+		"/Users/makazone/Documents/HSE/Calculus/gordin/Gordin_28032016/mtl4.m",
+		"/Users/makazone/Documents/HSE/Calculus/gordin/Gordin_28032016/iso2a_plots.m",
+		"/Users/makazone/Downloads/mtl3.txt",
+		"/Users/makazone/Downloads/mtl3.1.txt",
+		"/Users/makazone/Documents/HSE/Calculus/gordin/Gordin_28032016/Fredgolm2.m",
+		"/Users/makazone/Documents/HSE/Calculus/gordin/Gordin_28032016/Fredg.m",
+		"/Users/makazone/Documents/HSE/Calculus/gordin/Gordin_28032016/Fredg-2.m",
+		"/Users/makazone/Documents/HSE/Calculus/gordin/Gordin_28032016/vyrozhdennye_jadra.m",
+		"/Users/makazone/Downloads/Fredg.m",
+		"/Users/makazone/Downloads/Fredg-2.m",
+		"/Users/makazone/Downloads/Fredgolm2.m",
+		"/Users/makazone/Downloads/gordin_20160322.m",
+		"/Developer/svi/sesh/fastlane/Appfile",
+		"/Developer/svi/sesh-cloud/cloud/notification.js",
+		"/Developer/svi/parse-server-example/index.js",
+		"/Developer/svi/sesh-cloud/cloud/main.js",
+		"/Developer/svi/sesh-cloud/cloud/page.js",
+		"/Developer/svi/fgi/FGICatalogue/Podfile",
+		"/Developer/svi/Microbiome/Podfile",
+		"/Users/makazone/Downloads/system_rigid51.m",
+		"/Users/makazone/Downloads/CMakeLists-2.txt",
+		"/Users/makazone/Downloads/Good.json",
+		"/Users/makazone/Downloads/task3 (1).m",
+		"/Users/makazone/Desktop/birthday_speech ",
+		"/Developer/svi/Microbiome/Microbiome/Controller/Question/Text/MCBTextQuestionVC.m",
+		"/Developer/svi/sesh/cloud/cloud/mj_sync_job.js",
+		"/Developer/svi/sesh/cloud/cloud/activity.js",
+		"/Developer/svi/sesh/cloud/cloud/sesh.js",
+		"/Developer/svi/sesh/cloud/cloud/user.js",
+		"/Developer/svi/sesh/Pods/Target Support Files/Pods-sesh/Pods-sesh-frameworks.sh",
+		"/Developer/svi/sesh/cloud/cloud/main.js",
+		"/Developer/svi/sesh/cloud/cloud/page.js",
+		"/Users/makazone/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/makazone/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/makazone/Library/Application Support/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/Developer/svi/sesh/cloud/cloud/mj_sync_job",
+		"/Developer/svi/sesh/Pods/Fabric/run",
+		"/Users/makazone/Downloads/24425b3d-98a1-41ff-8502-f4f3875d8202_1454173015_export/_User.json",
+		"/Users/makazone/Documents/MATLAB/Macro/Archive 2/Calvo.mod",
+		"/Users/makazone/Documents/MATLAB/Macro/Archive 2/RBC.mod",
+		"/Users/makazone/Downloads/Shchavrovskiy_HW4/PA8/RBC.mod",
+		"/Users/makazone/Downloads/Shchavrovskiy_HW4/PA7/RBC.mod",
+		"/Users/makazone/Downloads/B_part_Alanov/Calvo.mod",
+		"/Users/makazone/Documents/MATLAB/Macro/Calvo.mod",
+		"/Users/makazone/Downloads/Mileev/Calvo.mod",
+		"/Users/makazone/Documents/MATLAB/Macro/Task 4/RBC.mod",
+		"/Users/makazone/Downloads/Mileev/RBC.mod",
+		"/Users/makazone/Documents/MATLAB/Macro/Task 4/Calvo.mod",
+		"/Developer/svi/testProject/data.json",
+		"/Users/makazone/Documents/HSE/Macro/Task 2/sort_eigenvalues.m",
+		"/Users/makazone/Downloads/Homework_2_Papava_Ilona (1)/sort_eigenvalues.m",
+		"/Developer/svi/sesh/fastlane/last_commit.sh",
+		"/Developer/svi/cheers-bac/fastlane/Fastfile",
+		"/Users/makazone/Downloads/metro/assets/metro_rules.json",
+		"/Developer/svi/Microbiome/fastlane/Appfile",
+		"/Developer/svi/Microbiome/fastlane/Fastfile",
+		"/Developer/TermProject/README.md",
+		"/Developer/svi/Microbiome/Microbiome/Controller/SignUp/MCBSignUpVC.m",
+		"/Users/makazone/Downloads/main.r",
+		"/Users/makazone/Documents/HSE/Data/Data-Science-HSE/src/main.R",
+		"/Users/makazone/Downloads/sorokin.hs",
+		"/Developer/svi/fgi/FGICatalogue/FGICatalogue/Cart/FGINewCartVC.m",
+		"/Developer/svi/cheers-bac/CheersOAPE/Supporting Files/Images.xcassets/AppIcon.appiconset/Contents.json",
+		"/Developer/fgi-catalog-ios/FGICatalogue/diff_BB_EA",
+		"/Developer/fgi-catalog-ios/FGICatalogue/deltaBBEA",
+		"/Developer/git_commands",
+		"/Developer/fgi-catalog-ios/FGICatalogue/deltaBB-EA",
+		"/Users/makazone/Desktop/напишисправочниксправочникнапиши",
+		"/Users/makazone/Downloads/boundary_solver.m",
+		"/Users/makazone/grid.txt"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" ",
+			"Utils",
+			"visi",
+			"visibili",
+			"visibilit",
+			"sour",
+			">>>>",
+			"HEAD",
+			">>>>>>",
+			"<<<<",
+			"propertyAccessControl",
+			"Share.storyboard",
+			"C16570241CAA841900EC2731",
+			"storyboard",
+			"inherit",
+			"locali",
+			"document",
+			"controller",
+			"inherit",
+			"lock",
+			"localizable",
+			"getFollowingGoodsForUser",
+			"user",
+			"file",
+			"FILE",
+			"collabo",
+			"stagingPageObj",
+			"Utils",
+			"utils",
+			"isinteg",
+			"image\": null",
+			"cloud",
+			"js",
+			"require('cloud/mj_sync_job.js');\n",
+			"sesh",
+			"user",
+			"js",
+			"mj_sync_job",
+			"page"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/main.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 178,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "term_project_report.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"dis",
+				"/Developer/svi/sesh-cloud-dev/SESH-Cloud/cloud/dispensary.js"
+			],
+			[
+				"main",
+				"/Developer/svi/sesh-cloud-dev/SESH-Cloud/cloud/main.js"
+			],
+			[
+				"sear",
+				"/Developer/svi/sesh-cloud/cloud/search.js"
+			],
+			[
+				"ac",
+				"/Developer/svi/sesh-cloud/cloud/activity.js"
+			],
+			[
+				"me",
+				"/Developer/svi/sesh-cloud/cloud/merge_sesh_updates.js"
+			],
+			[
+				"sesh",
+				"/Developer/svi/sesh-cloud/cloud/sesh.js"
+			],
+			[
+				"ses",
+				"/Developer/svi/sesh-cloud/cloud/sesh.js"
+			],
+			[
+				"dele",
+				"/Developer/svi/sesh-cloud/cloud/delete_sesh.js"
+			],
+			[
+				"user",
+				"/Developer/svi/sesh/cloud/cloud/user.js"
+			],
+			[
+				"",
+				"/Developer/svi/sesh/cloud/cloud/mj_sync_job.js"
+			],
+			[
+				"page",
+				"/Developer/svi/sesh/cloud/cloud/page.js"
+			],
+			[
+				"se",
+				"/Developer/svi/sesh/cloud/cloud/sesh.js"
+			],
+			[
+				"pa",
+				"/Developer/svi/sesh/cloud/cloud/page.js"
+			],
+			[
+				"paeg",
+				"/Developer/svi/sesh/cloud/cloud/page.js"
+			],
+			[
+				"mai",
+				"/Developer/svi/sesh/cloud/cloud/main.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

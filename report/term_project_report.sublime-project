@@ -1,0 +1,18 @@
+{
+	"folders":
+	[
+		{
+			"path": "img"
+		},
+		{
+			"path": "src"
+		}
+	],
+
+	"settings": {
+        "TEXroot": "./src/report.tex",
+        "hide_build_panel": "no_errors",
+        "temp_files_ignored_folders": ".git"
+    },
+
+}
